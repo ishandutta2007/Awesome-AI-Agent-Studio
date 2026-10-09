@@ -156,11 +156,11 @@ Contributions are warmly welcomed! Follow these steps to submit new commercial A
 
 ## 🤝 Support & Sponsorship
 
-If you find this AI Agent Studio directory helpful, please consider supporting the project:
+Thank you for visiting and using this AI Agent Studio directory! If you find this repository valuable for your research or development, your support is deeply appreciated:
 
-- ⭐ **Star** this repository on GitHub to boost visibility!
-- 🔀 **Fork** and share with fellow AI developers, prompt engineers, and open-source enthusiasts.
-- ☕ **Sponsor**: Support ongoing open-source directory curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star** this repository on GitHub to help others discover it!
+- 🔀 **Fork** and share it with fellow developers, AI researchers, and engineers.
+- ☕ **Buy Me a Coffee / Sponsor**: Support ongoing open-source curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
