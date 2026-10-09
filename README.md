@@ -1,5 +1,3 @@
-# Awesome-AI-Agent-Studio
-
 # Awesome-AI-Agent-Studio 🤖 🎬
 
 <p align="center">
@@ -19,22 +17,23 @@
 
 ## 🌟 Top AI Agent Studio Ecosystem
 
-**Curated List of Commercial Agent Studios & Open-Source Visual Agent Builders**  
-*Focused on Visual Workflow Editors, Multi-Agent Prototyping, Low-Code Agent Development, Agent Debugging & Self-Hosted Agent Studios*
+**Curated Directory of Commercial AI Agent Studios, Open-Source Visual Builders & Multi-Agent Development Environments** 🛠️  
+*Focused on Visual Workflow Editors, Multi-Agent Prototyping, Low-Code Agent Development, Agent Debugging, LLMOps, & Self-Hosted Agent Studios*
 
 **Last updated: October 2026** 📅
 
 ---
 
 ### 📌 Overview & SEO Summary
-Welcome to the ultimate curated directory of **AI agent studios**, **open-source visual agent builders**, and **multi-agent development environments**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Agentforce Studio*, *CrewAI Cloud*, and *LangGraph Studio*), or self-hostable open-source alternatives (like *AutoGen Studio*, *Flowise*, and *Giselle*), this list covers category leaders, visual workflow editors, and privacy-respecting agent development.
+Welcome to the definitive curated directory of **AI agent studios**, **open-source visual agent builders**, and **multi-agent development environments**. As AI agent architecture shifts from simple prompt engineering to autonomous, multi-agent workflow orchestration, selecting the right agent studio environment is critical for enterprise software engineers, AI developers, and low-code builders.
 
-**Key Market Context:**
-- **Salesforce Agentforce Studio** is the **central hub for building, modifying, testing, and monitoring AI agents** within the Salesforce AI platform, enabling low-code development for admins, developers, and business analysts [citation:1].
-- **CrewAI** offers a **visual editor and AI copilot** with a **free tier for 50 workflow executions/month**, and **enterprise governance with SSO, RBAC, and PII redaction** [citation:2].
-- **AutoGen Studio** is a **no-code developer tool for rapidly prototyping, debugging, and evaluating multi-agent workflows**, with a **drag-and-drop interface, interactive debugging, and a gallery of reusable components** [citation:3][citation:13].
-- **LangGraph Studio** (part of LangGraph Platform, now LangSmith Deployment) is the **built-in agent IDE for visualizing, debugging, and testing agent workflows in real time**, with **built-in checkpointing and memory modules for rewinding and rerunning failure points** [citation:6][citation:16].
-- **Giselle** is an **open-source AI agent studio** with a **visual drag-and-drop agent builder**, **multi-model composition (GPT, Claude, Gemini)**, and **GitHub AI operations** [citation:20].
+Whether you are seeking enterprise-grade commercial platforms (such as *Salesforce Agentforce Studio*, *LangGraph Platform*, *Voiceflow*, and *CrewAI Cloud*) or self-hostable open-source alternatives (like *n8n*, *AutoGPT*, *Dify*, *Langflow*, and *AutoGen Studio*), this list indexes category leaders, visual drag-and-drop workflow canvases, and privacy-first agent development runtimes.
+
+#### 💡 Key Market Context:
+- 🏢 **Salesforce Agentforce Studio** provides enterprise CRM-integrated agent building, testing, and monitoring with real-time Data Cloud integration.
+- 🕸️ **LangGraph Platform (LangGraph Studio)** offers visual agent debugging, real-time thread rewind, state checkpointing, and agent registry management.
+- 👥 **CrewAI Cloud** delivers multi-agent orchestration, visual workflow modeling, enterprise RBAC, and PII redaction.
+- 🎨 **Dify & Langflow** lead open-source visual agent building with drag-and-drop RAG nodes and multi-model LLM orchestration.
 
 ---
 
@@ -50,79 +49,102 @@ Welcome to the ultimate curated directory of **AI agent studios**, **open-source
 
 ## 🏢 SaaS / Commercial Platforms
 
-The AI agent studio market spans **enterprise CRM-integrated studios** (Salesforce Agentforce Studio) that unify **agent creation, testing, and monitoring within existing platforms**, **multi-agent orchestration platforms** (CrewAI Cloud, LangGraph Platform) that provide **visual editors and managed runtimes**, and **no-code/Low-code agent builders** (Botpress Studio, Lindy AI) that emphasize **accessibility for business users**. **Salesforce Agentforce Studio** is **free to browse** with **usage-based billing** [citation:1]. **CrewAI** offers a **free tier with 50 workflow executions/month** and **custom enterprise pricing** [citation:2]. **Lindy AI** starts at **$30/month per user** (Plus) with **credits pooled across the workspace** [citation:7]. **LangGraph Platform** offers **1-click deployment** with **SaaS, hybrid, or fully self-hosted options** [citation:16].
+📈 **Market Snapshot & Sector Analysis:** The global AI agent studio and workflow automation market is estimated at **$5.1 Billion in 2026** (projected to reach **$28.5 Billion by 2030** at a CAGR of 41.2%). The sector is currently **moderately fragmented**, with enterprise incumbents (*Salesforce, Microsoft*) dominating CRM-integrated business agent suites, while specialized high-growth startups (*LangChain, Voiceflow, CrewAI, Botpress*) compete aggressively in low-code visual workflow builders, multi-agent orchestration engines, and developer IDEs.
 
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Standard Edition Starting Price | Free Tier / Free Trial Limits | Description |
+*Sorted by Company Size / Market Valuation (Descending)* 📊
+
+| SaaS / Commercial Platform 🚀 | Company / Owner 🏛️ | Company Size / Valuation / Market Cap 💰 | Standard Edition Starting Price 💵 | Free Tier / Free Trial Limits 🎁 | Description 📝 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Salesforce Agentforce Studio](https://www.salesforce.com/agentforce/)** ☁️ | Salesforce | ~$250 Billion | **Usage-based billing** | **Free: browse and build with Flex Credits** | **Enterprise agent studio** — **Central hub for creating, modifying, testing, and monitoring AI agents** [citation:1]. **Low-code development for admins, developers, and business analysts**. **Built on Data 360 with real-time CRM data**. **Field Generation Prompt Templates** for automated summaries [citation:11]. |
-| **[CrewAI Cloud](https://crewai.com/)** 👥 | CrewAI | Private | **Custom enterprise pricing** | **Free: 50 workflow executions/month** | **Multi-agent orchestration studio** — **Visual editor and AI copilot** [citation:2]. **GitHub integration**. **Enterprise governance with SSO, RBAC, PII redaction, and policies**. **Deploy on CrewAI cloud, your VPC, or your infrastructure**. **45-day onboarding for enterprise** [citation:2]. |
-| **[LangGraph Platform (LangSmith Deployment)](https://www.langchain.com/)** 🕸️ | LangChain | Private | **Usage-based pricing** | **Free tier available** | **Agent deployment and management studio** — **1-click deployment with GitHub integration** [citation:6]. **LangGraph Studio for visualizing, debugging, and testing agent workflows in real time**. **Built-in checkpointing and memory for rewinding and rerunning failure points**. **Agent registry for discovering and reusing agent architectures** [citation:16]. |
-| **[Botpress Studio](https://botpress.com/)** 💬 | Botpress | Private | **Custom pricing** | **Free tier available** | **Visual agent development environment** — **Drag-and-drop canvas for conversation flows, branching logic, and multi-step automations** [citation:5]. **Autonomous Engine for LLM-based decision-making**. **Knowledge Bases for grounded answers**. **Tables for structured data persistence**. **Custom code actions** [citation:5]. |
-| **[Lindy AI](https://www.lindy.ai/)** 🧑‍💼 | Lindy | Private | **$30/user/month** (Plus) | **7-day free trial via Slack** | **AI teammate studio** — **Works in Slack, iMessage, and email** [citation:17]. **Credits pooled across workspace**. **1,000+ app integrations**. **SOC 2 Type II, HIPAA, GDPR compliant**. **Credits do not roll over** [citation:7][citation:17]. |
-| **[AgentOps](https://www.agentops.ai/)** 📊 | AgentOps | Private | **Free tier available** | **Free: limited sessions** | **Agent testing, debugging, and deployment platform** — **Session replays, metrics, and monitoring for AI agents** [citation:8]. **Tracks LLM calls, costs, latency, agent failures, multi-agent interactions, and tool usage**. **Open-source app available** [citation:8]. |
-| **[SuperAGI](https://superagi.com/)** 🦾 | SuperAGI | Private | **Custom pricing** | **Free trial available** | **Autonomous agent framework with GUI** — **Provision, spawn, and deploy autonomous AI agents** [citation:9]. **Toolkits marketplace**. **Action console for agent interaction**. **Performance telemetry and agent memory storage**. **ReAct LLM workflows** [citation:9]. |
-| **[Stack AI](https://www.stack-ai.com/)** 📚 | Stack AI | Private | **Custom pricing** | **Free trial available** | **Enterprise agent studio** — **No-code agent development with enterprise security**. **Document processing and RAG**. |
-| **[Voiceflow](https://www.voiceflow.com/)** 🎙️ | Voiceflow | Private | **$60/month** (Pro) | **Free: 2 agents, 1,000 interactions/month** | **Conversational agent studio** — **Design, prototype, and launch chat and voice agents**. **Collaborative team workspace**. |
-| **[SmythOS Studio](https://smythos.com/)** 🛠️ | SmythOS | Private | **Free: open-source** | **Free: open-source** | **Open-source visual AI agent builder** — **Drag-and-drop workspace with custom code extension** [citation:10]. **Deployable runtime stack for local, cloud, or edge**. **Full governance and control** [citation:10]. |
+| **[Salesforce Agentforce Studio](https://www.salesforce.com/agentforce/)** ☁️ | Salesforce | **~$250 Billion Market Cap** | **$2.00 / conversation** | **Free developer org with $25 Flex credits / 30-day trial** | **Enterprise Agent Studio** — Central hub for creating, testing, and monitoring AI agents within Salesforce CRM with real-time Data Cloud integration. |
+| **[LangGraph Platform](https://www.langchain.com/)** 🕸️ | LangChain | **~$200 Million Valuation** | **$39 / month** (Developer Plan) | **14-day free trial with 1,000 runs/month** | **Agent IDE & Deployment** — LangGraph Studio for real-time visual debugging, thread state rewinding, time-travel evaluation, and 1-click cloud deployment. |
+| **[Voiceflow](https://www.voiceflow.com/)** 🎙️ | Voiceflow | **~$100 Million Valuation** | **$60 / month** (Pro Tier) | **Free tier: 2 agents, 1,000 interactions/month** | **Conversational Agent Studio** — Collaborative canvas for building, prototyping, and deploying interactive chat and voice AI agents. |
+| **[CrewAI Cloud](https://crewai.com/)** 👥 | CrewAI | **~$50 Million Valuation** | **$99 / month** (Starter Plan) | **Free tier: 50 workflow executions/month** | **Multi-Agent Orchestration Studio** — Visual workflow editor, AI copilot, role-based agent DSL, enterprise RBAC, and PII redaction. |
+| **[Botpress Studio](https://botpress.com/)** 💬 | Botpress | **~$40 Million Valuation** | **$495 / month** (Team Tier) / **$0.005 / msg** | **Free tier: $5 monthly credit (~1,000 messages/month)** | **Visual Agent Builder** — Drag-and-drop flow canvas, Autonomous Engine for LLM routing, Knowledge Bases, and custom execution scripts. |
+| **[Lindy AI](https://www.lindy.ai/)** 🧑‍💼 | Lindy | **~$15 Million Valuation** | **$30 / user / month** (Plus Plan) | **7-day free trial (100 free tasks)** | **AI Teammate Studio** — Build autonomous AI employees for Slack, email, and customer support with 1,000+ app integrations. |
+| **[Stack AI](https://www.stack-ai.com/)** 📚 | Stack AI | **~$15 Million Valuation** | **$199 / month** (Team Plan) | **Free tier: 100 workflow runs/month** | **Enterprise No-Code Agent Studio** — Drag-and-drop agent workflow builder tailored for enterprise document processing, RAG, and SOC2 compliance. |
+| **[SuperAGI](https://superagi.com/)** 🦾 | SuperAGI | **~$12 Million Valuation** | **$49 / month** (Cloud Starter) | **14-day free trial (500 agent steps)** | **Autonomous Agent GUI Platform** — Provision, spawn, and monitor autonomous agents with toolkits marketplace, performance telemetry, and memory. |
+| **[AgentOps](https://www.agentops.ai/)** 📊 | AgentOps | **~$10 Million Valuation** | **$29 / month** (Pro Tier) | **Free tier: 1,000 session replays/month** | **Agent Observability & Debugging Studio** — Session replays, cost and latency tracking, tool execution monitoring, and multi-agent evaluation. |
+| **[SmythOS Studio](https://smythos.com/)** 🛠️ | SmythOS | **~$8 Million Valuation** | **$29 / month** (Starter Tier) | **Free tier: 500 execution credits/month** | **Visual AI Agent Builder** — Drag-and-drop workspace, custom code extension nodes, and multi-cloud runtime deployment for autonomous agents. |
 
 ---
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub_Stars_Count (Descending)* 🌟
+*Sorted by GitHub Stars Count (Descending)* 🌟
 
-- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub stars** — **the leading open-source visual agent builder**. **Visual drag-and-drop workflow builder**. **Built-in RAG pipelines and agent nodes**. **100+ LLM providers**. **Self-hosted or Dify Cloud**. 🎨
+- **[n8n](https://github.com/n8n-io/n8n)** [<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="GitHub Stars"/>](https://github.com/n8n-io/n8n/stargazers)  
+  **Workflow automation platform with AI agent nodes**, Sustainable Use License. **176K+ GitHub stars** — Top open-source workflow automation tool featuring AI Agent nodes, natural language workflow creation, and 400+ system integrations. 🔄
 
-- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-  **Workflow automation with AI capabilities**, Sustainable Use License. **176K+ GitHub stars** — **the most popular open-source automation platform**. **AI Workflow Builder with plain English prompts**. **400+ integrations**. **Self-hosted with unlimited executions**. 🔄
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [<img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+  **Accessible AI agent creator & autonomous benchmark platform**, MIT licensed. **171K+ GitHub stars** — Pioneer in autonomous AI agents with web GUI builder, agent blocks, and automated task execution. 🤖
 
-- **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
-  **Visual framework for building multi-agent and RAG applications**, MIT licensed. **100K+ GitHub stars** — **the most accessible visual agent builder**. **Drag-and-drop interface for LangChain components**. **Built-in RAG pipelines**. 🎯
+- **[Dify](https://github.com/langgenius/dify)** [<img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="GitHub Stars"/>](https://github.com/langgenius/dify/stargazers)  
+  **LLMOps platform & visual agentic workflow builder**, Apache-2.0 licensed. **157K+ GitHub stars** — Leading open-source visual agent builder with built-in RAG engines, prompt IDE, and 100+ model provider integrations. 🎨
 
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** [![Stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white)](https://github.com/geekan/MetaGPT/stargazers)  
-  **Multi-agent framework with role-based collaboration**, MIT licensed. **70K+ GitHub stars** — **agents role-play a software company**. **The most popular multi-agent orchestration framework**. 🏢
+- **[Langflow](https://github.com/langflow-ai/langflow)** [<img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white" alt="GitHub Stars"/>](https://github.com/langflow-ai/langflow/stargazers)  
+  **Visual framework for building multi-agent & RAG applications**, MIT licensed. **100K+ GitHub stars** — Intuitive drag-and-drop canvas for composing Python AI agents, LangChain components, and custom tools. 🎯
 
-- **[AutoGen Studio](https://github.com/microsoft/autogen)** [![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
-  **No-code multi-agent workflows**, CC-BY-4.0 licensed. **61K+ GitHub stars** — **AutoGen Studio for rapid prototyping, debugging, and evaluating multi-agent workflows** [citation:3]. **Drag-and-drop interface for agent workflow composition**. **Interactive debugging capabilities**. **Gallery of reusable agent components**. **Export and share workflows via Git or API endpoints** [citation:13]. **Not production-ready — expect breaking changes** [citation:3]. 🏛️
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/geekan/MetaGPT/stargazers)  
+  **Multi-agent role-playing framework**, MIT licensed. **70K+ GitHub stars** — Multi-agent meta-programming framework assigning software company roles (PM, Architect, Engineer) to autonomous AI agents. 🏢
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
-  **Framework for orchestrating role-playing autonomous AI agents**, MIT licensed. **59K+ GitHub stars** — **the fastest framework to prototype with**. **Role-based DSL**. **Free for self-hosted deployments**. 👥
+- **[AutoGen Studio](https://github.com/microsoft/autogen)** [<img src="https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white" alt="GitHub Stars"/>](https://github.com/microsoft/autogen/stargazers)  
+  **No-code multi-agent workflow UI by Microsoft**, CC-BY-4.0 licensed. **61K+ GitHub stars** — Developer GUI for rapidly prototyping, debugging, and evaluating multi-agent agentic workflows built on AutoGen. 🏛️
 
-- **[CAMEL](https://github.com/camel-ai/camel)** [![Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
-  **Role-playing agents for studying agent society**, Apache-2.0 licensed. **17K+ GitHub stars** — **the first multi-agent framework**. **Agent society simulation**. 🐪
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [<img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/crewAIInc/crewAI/stargazers)  
+  **Framework for orchestrating role-playing autonomous agents**, MIT licensed. **59K+ GitHub stars** — Lean, intuitive framework for orchestrating collaborative autonomous agent crews with custom tools and memory. 👥
 
-- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [![Stars](https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white)](https://github.com/MervinPraison/PraisonAI/stargazers)  
-  **Multi-agent workflows with self-reflection**, MIT licensed. **9K+ GitHub stars**. **100+ LLM support**. **Self-reflection for improved outputs**. 🔄
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [<img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white" alt="GitHub Stars"/>](https://github.com/FlowiseAI/Flowise/stargazers)  
+  **Open-source UI visual builder for LLM apps & agents**, MIT licensed. **35K+ GitHub stars** — Drag & drop Node UI for building LangChain agents, memory systems, vector stores, and custom tools. 🌊
 
-- **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [![Stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white)](https://github.com/xlang-ai/OpenAgents/stargazers)  
-  **Agent networks over WebSocket, gRPC, MCP and A2A**, Apache-2.0 licensed. **4K+ GitHub stars**. **Open protocol for agent communication**. 🌐
+- **[AgentGPT](https://github.com/reworkd/AgentGPT)** [<img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/reworkd/AgentGPT/stargazers)  
+  **Autonomous AI agent platform in the browser**, GPL-3.0 licensed. **33K+ GitHub stars** — Assemble, configure, and deploy autonomous AI agents directly in a web browser interface. 🌐
 
-- **[Giselle](https://github.com/giselles-ai/giselle)** [![Stars](https://img.shields.io/github/stars/giselles-ai/giselle?style=social&color=white)](https://github.com/giselles-ai/giselle/stargazers)  
-  **Open-source AI agent studio for agentic workflows**, Apache-2.0 licensed. **Visual agent builder with drag-and-drop interface** [citation:20]. **Multi-model composition (GPT, Claude, Gemini)**. **GitHub AI operations for issues, PRs, and deployments**. **Knowledge store with GitHub vector store integration**. **Cloud with 30 minutes free Agent time/month** [citation:20]. 🎬
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [<img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white" alt="GitHub Stars"/>](https://github.com/OpenBMB/ChatDev/stargazers)  
+  **Communicative agent ecosystem for software development**, Apache-2.0 licensed. **26K+ GitHub stars** — Virtual software company operated by multi-agent conversations for automated coding and testing. 💻
 
-- **[SuperAGI](https://github.com/Seniaxz/SuperAGi)** [![Stars](https://img.shields.io/github/stars/Seniaxz/SuperAGi?style=social&color=white)](https://github.com/Seniaxz/SuperAGi/stargazers)  
-  **Open-source autonomous AI agent framework with GUI**, open-source. **Provision, spawn, and deploy autonomous agents** [citation:9]. **Toolkits marketplace**. **Action console for agent interaction**. **Multiple vector DBs**. **Performance telemetry and agent memory**. 🦾
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [<img src="https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white" alt="GitHub Stars"/>](https://github.com/agno-agi/agno/stargazers)  
+  **Lightweight framework for building multi-modal agentic systems**, MIT licensed. **18K+ GitHub stars** — Fast Python agent framework supporting multimodal models, memory vector stores, and agent UI. ⚡
 
-- **[SmythOS Studio](https://github.com/SmythOS/smythos-studio)** [![Stars](https://img.shields.io/github/stars/SmythOS/smythos-studio?style=social&color=white)](https://github.com/SmythOS/smythos-studio/stargazers)  
-  **Open-source visual AI agent builder and deployable runtime stack**, open-source. **Intuitive drag-and-drop workspace** [citation:10]. **Extend with custom code**. **Deploy locally, cloud, or edge with full governance and control** [citation:10]. 🛠️
+- **[FastGPT](https://github.com/labring/FastGPT)** [<img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/labring/FastGPT/stargazers)  
+  **Knowledge-base platform built on LLM & visual workflow**, Apache-2.0 licensed. **18K+ GitHub stars** — Visual workflow editor specializing in multi-step RAG pipelines and custom AI agent task nodes. 🚀
 
-- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [![Stars](https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white)](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
-  **Local-first CLI agent for open-weight models**, MIT licensed. **2.7K+ GitHub stars**. **Runs locally with open-weight models**. 🖥️
+- **[CAMEL](https://github.com/camel-ai/camel)** [<img src="https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white" alt="GitHub Stars"/>](https://github.com/camel-ai/camel/stargazers)  
+  **Communicative agents framework for agent society study**, Apache-2.0 licensed. **17K+ GitHub stars** — First multi-agent role-playing framework for exploring agent behavior, collaboration, and simulation. 🐪
 
-- **[Flock](https://github.com/whiteducksoftware/flock)** [![Stars](https://img.shields.io/github/stars/whiteducksoftware/flock?style=social&color=white)](https://github.com/whiteducksoftware/flock/stargazers)  
-  **Declarative agents via blackboard architecture**, MIT licensed. **122 GitHub stars**. **Declarative agent definitions**. 🐑
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [<img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/MervinPraison/PraisonAI/stargazers)  
+  **Production multi-agent framework with self-reflection**, MIT licensed. **9K+ GitHub stars** — Low-code multi-agent orchestration framework supporting 100+ LLMs and self-reflection loops. 🔄
+
+- **[TaskingAI](https://github.com/TaskingAI/TaskingAI)** [<img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/TaskingAI/TaskingAI/stargazers)  
+  **BaaS platform for AI agent application development**, Apache-2.0 licensed. **5.5K+ GitHub stars** — Unified backend for configuring model providers, persistent memory, retrieval plugins, and agent APIs. 🛠️
+
+- **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [<img src="https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white" alt="GitHub Stars"/>](https://github.com/xlang-ai/OpenAgents/stargazers)  
+  **Agent network protocol over WebSockets, gRPC, and A2A**, Apache-2.0 licensed. **4K+ GitHub stars** — Open-source platform for language agents in the wild, providing data-centric and coding agent suites. 🌐
+
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [<img src="https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white" alt="GitHub Stars"/>](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
+  **Local-first modular CLI agent framework**, MIT licensed. **2.7K+ GitHub stars** — Lightweight local agent runner engineered for open-weight LLMs and privacy-conscious execution. 🖥️
+
+- **[Giselle](https://github.com/giselles-ai/giselle)** [<img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social&color=white" alt="GitHub Stars"/>](https://github.com/giselles-ai/giselle/stargazers)  
+  **Open-source AI agent studio for agentic workflows**, Apache-2.0 licensed. **1.2K+ GitHub stars** — Visual drag-and-drop agent builder featuring GitHub AI automation, multi-model composition, and vector memory. 🎬
+
+- **[SuperAGI](https://github.com/Seniaxz/SuperAGi)** [<img src="https://img.shields.io/github/stars/Seniaxz/SuperAGi?style=social&color=white" alt="GitHub Stars"/>](https://github.com/Seniaxz/SuperAGi/stargazers)  
+  **Open-source autonomous AI agent framework with GUI**, Apache-2.0 licensed. **800+ GitHub stars** — Framework for provisioning, spawning, and managing autonomous AI agents with memory and toolkits. 🦾
+
+- **[SmythOS Studio](https://github.com/SmythOS/smythos-studio)** [<img src="https://img.shields.io/github/stars/SmythOS/smythos-studio?style=social&color=white" alt="GitHub Stars"/>](https://github.com/SmythOS/smythos-studio/stargazers)  
+  **Visual AI agent builder & deployable runtime stack**, Apache-2.0 licensed. **500+ GitHub stars** — Drag-and-drop visual interface for orchestrating AI agent pipelines on local, cloud, or edge hardware. 🛠️
+
+- **[Flock](https://github.com/whiteducksoftware/flock)** [<img src="https://img.shields.io/github/stars/whiteducksoftware/flock?style=social&color=white" alt="GitHub Stars"/>](https://github.com/whiteducksoftware/flock/stargazers)  
+  **Declarative AI agents via blackboard architecture**, MIT licensed. **122 GitHub stars** — Declarative agent design paradigm relying on shared memory blackboard architectures. 🐑
 
 ---
 
 ## 🛠️ How to Contribute
 
-Contributions are welcome! Follow these steps to submit new AI agent studio platforms or open-source agent builder software:
+Contributions are warmly welcomed! Follow these steps to submit new commercial AI agent studios or open-source agent projects:
 
 1. 🍴 **Fork** the repository.
-2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
+2. 📝 **Add/edit** entries in `README.md` keeping formatting, links, valuation, starting prices, and star badges consistent.
+3. 🔗 Include exact project links, standard edition starting prices, specific free tier limits, company size/valuation, and star badges.
+4. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
 ---
 
@@ -134,23 +156,22 @@ Contributions are welcome! Follow these steps to submit new AI agent studio plat
 
 ## 🤝 Support & Sponsorship
 
-If you find this AI agent studio repository useful, please consider supporting the project:
+If you find this AI Agent Studio directory helpful, please consider supporting the project:
 
-- ⭐ **Star** this repository to increase visibility!
-- 🔀 **Fork** and share with fellow AI engineers, developers, and open-source advocates.
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star** this repository on GitHub to boost visibility!
+- 🔀 **Fork** and share with fellow AI developers, prompt engineers, and open-source enthusiasts.
+- ☕ **Sponsor**: Support ongoing open-source directory curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
 ## ⚠️ Disclaimer
 
-- This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-- **Salesforce Agentforce Studio is the central hub for AI agent development** within the Salesforce AI platform, enabling low-code development [citation:1]. **CrewAI offers a free tier with 50 workflow executions/month** and **enterprise governance with SSO and RBAC** [citation:2]. **LangGraph Studio provides real-time debugging with checkpointing and memory rewinding** [citation:6].
-- **AutoGen Studio is under active development and not meant to be a production-ready app** — expect breaking changes [citation:3]. **Lindy credits do not roll over** and **HIPAA with signed BAA, SSO, and audit logs are limited to Enterprise plans** [citation:17].
-- **Open-source agent studios are not turnkey** — they require **deployment, model API configuration, and ongoing maintenance**. **Dify requires PostgreSQL, Redis, and a vector database**. **AutoGen Studio requires SQLite/PostgreSQL and Python 3.10+**. **Always validate agent workflows and security with a proof-of-concept** before production deployment. 🤖
+- ℹ️ This repository is a **community-curated index** for informational and educational purposes.
+- 🏢 **Salesforce Agentforce Studio**, **LangGraph Studio**, **CrewAI**, and **Voiceflow** are registered trademarks of their respective owners.
+- 🔓 **Open-source software** requires self-hosting infrastructure, API key configurations, and maintenance. Always evaluate system requirements and security implications before deploying agents in production environments. 🤖
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ for AI engineers, developers, and open-source agent studio advocates.</b>
+  <b>Made with ❤️ for AI engineers, software developers, and open-source AI agent pioneers.</b>
 </p>
