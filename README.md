@@ -70,70 +70,70 @@ Whether you are seeking enterprise-grade commercial platforms (such as *Salesfor
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
-- **[n8n](https://github.com/n8n-io/n8n)** [<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="GitHub Stars"/>](https://github.com/n8n-io/n8n/stargazers)  
-  **Workflow automation platform with AI agent nodes**, Sustainable Use License. **176K+ GitHub stars** — Top open-source workflow automation tool featuring AI Agent nodes, natural language workflow creation, and 400+ system integrations. 🔄
+- **[n8n](https://github.com/n8n-io/n8n)** [<img src="https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/n8n-io/n8n/stargazers)  
+  **Workflow automation platform with AI agent nodes**, Sustainable Use License. **176K+ GitHub_Stars** — Top open-source workflow automation tool featuring AI Agent nodes, natural language workflow creation, and 400+ system integrations. 🔄
 
-- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [<img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
-  **Accessible AI agent creator & autonomous benchmark platform**, MIT licensed. **171K+ GitHub stars** — Pioneer in autonomous AI agents with web GUI builder, agent blocks, and automated task execution. 🤖
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [<img src="https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+  **Accessible AI agent creator & autonomous benchmark platform**, MIT licensed. **171K+ GitHub_Stars** — Pioneer in autonomous AI agents with web GUI builder, agent blocks, and automated task execution. 🤖
 
-- **[Dify](https://github.com/langgenius/dify)** [<img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="GitHub Stars"/>](https://github.com/langgenius/dify/stargazers)  
-  **LLMOps platform & visual agentic workflow builder**, Apache-2.0 licensed. **157K+ GitHub stars** — Leading open-source visual agent builder with built-in RAG engines, prompt IDE, and 100+ model provider integrations. 🎨
+- **[Dify](https://github.com/langgenius/dify)** [<img src="https://img.shields.io/github/stars/langgenius/dify?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/langgenius/dify/stargazers)  
+  **LLMOps platform & visual agentic workflow builder**, Apache-2.0 licensed. **157K+ GitHub_Stars** — Leading open-source visual agent builder with built-in RAG engines, prompt IDE, and 100+ model provider integrations. 🎨
 
-- **[Langflow](https://github.com/langflow-ai/langflow)** [<img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white" alt="GitHub Stars"/>](https://github.com/langflow-ai/langflow/stargazers)  
-  **Visual framework for building multi-agent & RAG applications**, MIT licensed. **100K+ GitHub stars** — Intuitive drag-and-drop canvas for composing Python AI agents, LangChain components, and custom tools. 🎯
+- **[Langflow](https://github.com/langflow-ai/langflow)** [<img src="https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/langflow-ai/langflow/stargazers)  
+  **Visual framework for building multi-agent & RAG applications**, MIT licensed. **100K+ GitHub_Stars** — Intuitive drag-and-drop canvas for composing Python AI agents, LangChain components, and custom tools. 🎯
 
-- **[MetaGPT](https://github.com/geekan/MetaGPT)** [<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/geekan/MetaGPT/stargazers)  
-  **Multi-agent role-playing framework**, MIT licensed. **70K+ GitHub stars** — Multi-agent meta-programming framework assigning software company roles (PM, Architect, Engineer) to autonomous AI agents. 🏢
+- **[MetaGPT](https://github.com/geekan/MetaGPT)** [<img src="https://img.shields.io/github/stars/geekan/MetaGPT?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/geekan/MetaGPT/stargazers)  
+  **Multi-agent role-playing framework**, MIT licensed. **70K+ GitHub_Stars** — Multi-agent meta-programming framework assigning software company roles (PM, Architect, Engineer) to autonomous AI agents. 🏢
 
-- **[AutoGen Studio](https://github.com/microsoft/autogen)** [<img src="https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white" alt="GitHub Stars"/>](https://github.com/microsoft/autogen/stargazers)  
-  **No-code multi-agent workflow UI by Microsoft**, CC-BY-4.0 licensed. **61K+ GitHub stars** — Developer GUI for rapidly prototyping, debugging, and evaluating multi-agent agentic workflows built on AutoGen. 🏛️
+- **[AutoGen Studio](https://github.com/microsoft/autogen)** [<img src="https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/microsoft/autogen/stargazers)  
+  **No-code multi-agent workflow UI by Microsoft**, CC-BY-4.0 licensed. **61K+ GitHub_Stars** — Developer GUI for rapidly prototyping, debugging, and evaluating multi-agent agentic workflows built on AutoGen. 🏛️
 
-- **[CrewAI](https://github.com/crewAIInc/crewAI)** [<img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/crewAIInc/crewAI/stargazers)  
-  **Framework for orchestrating role-playing autonomous agents**, MIT licensed. **59K+ GitHub stars** — Lean, intuitive framework for orchestrating collaborative autonomous agent crews with custom tools and memory. 👥
+- **[CrewAI](https://github.com/crewAIInc/crewAI)** [<img src="https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/crewAIInc/crewAI/stargazers)  
+  **Framework for orchestrating role-playing autonomous agents**, MIT licensed. **59K+ GitHub_Stars** — Lean, intuitive framework for orchestrating collaborative autonomous agent crews with custom tools and memory. 👥
 
-- **[Flowise](https://github.com/FlowiseAI/Flowise)** [<img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white" alt="GitHub Stars"/>](https://github.com/FlowiseAI/Flowise/stargazers)  
-  **Open-source UI visual builder for LLM apps & agents**, MIT licensed. **35K+ GitHub stars** — Drag & drop Node UI for building LangChain agents, memory systems, vector stores, and custom tools. 🌊
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [<img src="https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/FlowiseAI/Flowise/stargazers)  
+  **Open-source UI visual builder for LLM apps & agents**, MIT licensed. **35K+ GitHub_Stars** — Drag & drop Node UI for building LangChain agents, memory systems, vector stores, and custom tools. 🌊
 
-- **[AgentGPT](https://github.com/reworkd/AgentGPT)** [<img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/reworkd/AgentGPT/stargazers)  
-  **Autonomous AI agent platform in the browser**, GPL-3.0 licensed. **33K+ GitHub stars** — Assemble, configure, and deploy autonomous AI agents directly in a web browser interface. 🌐
+- **[AgentGPT](https://github.com/reworkd/AgentGPT)** [<img src="https://img.shields.io/github/stars/reworkd/AgentGPT?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/reworkd/AgentGPT/stargazers)  
+  **Autonomous AI agent platform in the browser**, GPL-3.0 licensed. **33K+ GitHub_Stars** — Assemble, configure, and deploy autonomous AI agents directly in a web browser interface. 🌐
 
-- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [<img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white" alt="GitHub Stars"/>](https://github.com/OpenBMB/ChatDev/stargazers)  
-  **Communicative agent ecosystem for software development**, Apache-2.0 licensed. **26K+ GitHub stars** — Virtual software company operated by multi-agent conversations for automated coding and testing. 💻
+- **[ChatDev](https://github.com/OpenBMB/ChatDev)** [<img src="https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/OpenBMB/ChatDev/stargazers)  
+  **Communicative agent ecosystem for software development**, Apache-2.0 licensed. **26K+ GitHub_Stars** — Virtual software company operated by multi-agent conversations for automated coding and testing. 💻
 
-- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [<img src="https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white" alt="GitHub Stars"/>](https://github.com/agno-agi/agno/stargazers)  
-  **Lightweight framework for building multi-modal agentic systems**, MIT licensed. **18K+ GitHub stars** — Fast Python agent framework supporting multimodal models, memory vector stores, and agent UI. ⚡
+- **[Agno (formerly Phidata)](https://github.com/agno-agi/agno)** [<img src="https://img.shields.io/github/stars/agno-agi/agno?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/agno-agi/agno/stargazers)  
+  **Lightweight framework for building multi-modal agentic systems**, MIT licensed. **18K+ GitHub_Stars** — Fast Python agent framework supporting multimodal models, memory vector stores, and agent UI. ⚡
 
-- **[FastGPT](https://github.com/labring/FastGPT)** [<img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="GitHub Stars"/>](https://github.com/labring/FastGPT/stargazers)  
-  **Knowledge-base platform built on LLM & visual workflow**, Apache-2.0 licensed. **18K+ GitHub stars** — Visual workflow editor specializing in multi-step RAG pipelines and custom AI agent task nodes. 🚀
+- **[FastGPT](https://github.com/labring/FastGPT)** [<img src="https://img.shields.io/github/stars/labring/FastGPT?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/labring/FastGPT/stargazers)  
+  **Knowledge-base platform built on LLM & visual workflow**, Apache-2.0 licensed. **18K+ GitHub_Stars** — Visual workflow editor specializing in multi-step RAG pipelines and custom AI agent task nodes. 🚀
 
-- **[CAMEL](https://github.com/camel-ai/camel)** [<img src="https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white" alt="GitHub Stars"/>](https://github.com/camel-ai/camel/stargazers)  
-  **Communicative agents framework for agent society study**, Apache-2.0 licensed. **17K+ GitHub stars** — First multi-agent role-playing framework for exploring agent behavior, collaboration, and simulation. 🐪
+- **[CAMEL](https://github.com/camel-ai/camel)** [<img src="https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/camel-ai/camel/stargazers)  
+  **Communicative agents framework for agent society study**, Apache-2.0 licensed. **17K+ GitHub_Stars** — First multi-agent role-playing framework for exploring agent behavior, collaboration, and simulation. 🐪
 
-- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [<img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/MervinPraison/PraisonAI/stargazers)  
-  **Production multi-agent framework with self-reflection**, MIT licensed. **9K+ GitHub stars** — Low-code multi-agent orchestration framework supporting 100+ LLMs and self-reflection loops. 🔄
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** [<img src="https://img.shields.io/github/stars/MervinPraison/PraisonAI?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/MervinPraison/PraisonAI/stargazers)  
+  **Production multi-agent framework with self-reflection**, MIT licensed. **9K+ GitHub_Stars** — Low-code multi-agent orchestration framework supporting 100+ LLMs and self-reflection loops. 🔄
 
-- **[TaskingAI](https://github.com/TaskingAI/TaskingAI)** [<img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social&color=white" alt="GitHub Stars"/>](https://github.com/TaskingAI/TaskingAI/stargazers)  
-  **BaaS platform for AI agent application development**, Apache-2.0 licensed. **5.5K+ GitHub stars** — Unified backend for configuring model providers, persistent memory, retrieval plugins, and agent APIs. 🛠️
+- **[TaskingAI](https://github.com/TaskingAI/TaskingAI)** [<img src="https://img.shields.io/github/stars/TaskingAI/TaskingAI?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/TaskingAI/TaskingAI/stargazers)  
+  **BaaS platform for AI agent application development**, Apache-2.0 licensed. **5.5K+ GitHub_Stars** — Unified backend for configuring model providers, persistent memory, retrieval plugins, and agent APIs. 🛠️
 
-- **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [<img src="https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white" alt="GitHub Stars"/>](https://github.com/xlang-ai/OpenAgents/stargazers)  
-  **Agent network protocol over WebSockets, gRPC, and A2A**, Apache-2.0 licensed. **4K+ GitHub stars** — Open-source platform for language agents in the wild, providing data-centric and coding agent suites. 🌐
+- **[OpenAgents](https://github.com/xlang-ai/OpenAgents)** [<img src="https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/xlang-ai/OpenAgents/stargazers)  
+  **Agent network protocol over WebSockets, gRPC, and A2A**, Apache-2.0 licensed. **4K+ GitHub_Stars** — Open-source platform for language agents in the wild, providing data-centric and coding agent suites. 🌐
 
-- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [<img src="https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white" alt="GitHub Stars"/>](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
-  **Local-first modular CLI agent framework**, MIT licensed. **2.7K+ GitHub stars** — Lightweight local agent runner engineered for open-weight LLMs and privacy-conscious execution. 🖥️
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** [<img src="https://img.shields.io/github/stars/AtomicBot-ai/atomic-agent?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/AtomicBot-ai/atomic-agent/stargazers)  
+  **Local-first modular CLI agent framework**, MIT licensed. **2.7K+ GitHub_Stars** — Lightweight local agent runner engineered for open-weight LLMs and privacy-conscious execution. 🖥️
 
-- **[Giselle](https://github.com/giselles-ai/giselle)** [<img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social&color=white" alt="GitHub Stars"/>](https://github.com/giselles-ai/giselle/stargazers)  
-  **Open-source AI agent studio for agentic workflows**, Apache-2.0 licensed. **1.2K+ GitHub stars** — Visual drag-and-drop agent builder featuring GitHub AI automation, multi-model composition, and vector memory. 🎬
+- **[Giselle](https://github.com/giselles-ai/giselle)** [<img src="https://img.shields.io/github/stars/giselles-ai/giselle?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/giselles-ai/giselle/stargazers)  
+  **Open-source AI agent studio for agentic workflows**, Apache-2.0 licensed. **1.2K+ GitHub_Stars** — Visual drag-and-drop agent builder featuring GitHub AI automation, multi-model composition, and vector memory. 🎬
 
-- **[SuperAGI](https://github.com/Seniaxz/SuperAGi)** [<img src="https://img.shields.io/github/stars/Seniaxz/SuperAGi?style=social&color=white" alt="GitHub Stars"/>](https://github.com/Seniaxz/SuperAGi/stargazers)  
-  **Open-source autonomous AI agent framework with GUI**, Apache-2.0 licensed. **800+ GitHub stars** — Framework for provisioning, spawning, and managing autonomous AI agents with memory and toolkits. 🦾
+- **[SuperAGI](https://github.com/Seniaxz/SuperAGi)** [<img src="https://img.shields.io/github/stars/Seniaxz/SuperAGi?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/Seniaxz/SuperAGi/stargazers)  
+  **Open-source autonomous AI agent framework with GUI**, Apache-2.0 licensed. **800+ GitHub_Stars** — Framework for provisioning, spawning, and managing autonomous AI agents with memory and toolkits. 🦾
 
-- **[SmythOS Studio](https://github.com/SmythOS/smythos-studio)** [<img src="https://img.shields.io/github/stars/SmythOS/smythos-studio?style=social&color=white" alt="GitHub Stars"/>](https://github.com/SmythOS/smythos-studio/stargazers)  
-  **Visual AI agent builder & deployable runtime stack**, Apache-2.0 licensed. **500+ GitHub stars** — Drag-and-drop visual interface for orchestrating AI agent pipelines on local, cloud, or edge hardware. 🛠️
+- **[SmythOS Studio](https://github.com/SmythOS/smythos-studio)** [<img src="https://img.shields.io/github/stars/SmythOS/smythos-studio?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/SmythOS/smythos-studio/stargazers)  
+  **Visual AI agent builder & deployable runtime stack**, Apache-2.0 licensed. **500+ GitHub_Stars** — Drag-and-drop visual interface for orchestrating AI agent pipelines on local, cloud, or edge hardware. 🛠️
 
-- **[Flock](https://github.com/whiteducksoftware/flock)** [<img src="https://img.shields.io/github/stars/whiteducksoftware/flock?style=social&color=white" alt="GitHub Stars"/>](https://github.com/whiteducksoftware/flock/stargazers)  
-  **Declarative AI agents via blackboard architecture**, MIT licensed. **122 GitHub stars** — Declarative agent design paradigm relying on shared memory blackboard architectures. 🐑
+- **[Flock](https://github.com/whiteducksoftware/flock)** [<img src="https://img.shields.io/github/stars/whiteducksoftware/flock?style=social&color=white" alt="GitHub_Stars"/>](https://github.com/whiteducksoftware/flock/stargazers)  
+  **Declarative AI agents via blackboard architecture**, MIT licensed. **122 GitHub_Stars** — Declarative agent design paradigm relying on shared memory blackboard architectures. 🐑
 
 ---
 
@@ -142,8 +142,8 @@ Whether you are seeking enterprise-grade commercial platforms (such as *Salesfor
 Contributions are warmly welcomed! Follow these steps to submit new commercial AI agent studios or open-source agent projects:
 
 1. 🍴 **Fork** the repository.
-2. 📝 **Add/edit** entries in `README.md` keeping formatting, links, valuation, starting prices, and star badges consistent.
-3. 🔗 Include exact project links, standard edition starting prices, specific free tier limits, company size/valuation, and star badges.
+2. 📝 **Add/edit** entries in `README.md` keeping formatting, links, valuation, starting prices, and Stars_Badges consistent.
+3. 🔗 Include exact project links, standard edition starting prices, specific free tier limits, company size/valuation, and Stars_Badges.
 4. 🚀 Submit a **Pull Request** with a concise description of your additions.
 
 ---
